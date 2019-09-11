@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name><![CDATA[Category:Featured pictures]]></name>
+	<open>1</open>
+		<Placemark>
+			<name><![CDATA[Carnaval in Hasselt 01.jpg]]></name>
+			<Point>
+				<coordinates>50.9307,5.3325,0</coordinates>
+			</Point>
+			<Snippet></Snippet>
+			<Style>
+				<IconStyle><Icon><href>https://tools.wmflabs.org/geocommons/0.png</href></Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+				</IconStyle>
+			</Style>
+			<description><![CDATA[<h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width=20 height=27><img src="https://tools.wmflabs.org/geocommons/Commons-logo-text.png" width=264 height=27></h2>
+<center><a href="https://commons.wikimedia.org/wiki/File:Carnaval_in_Hasselt_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Carnaval_in_Hasselt_01.jpg/180px-Carnaval_in_Hasselt_01.jpg" width=180 height=270></a></center>
+]]></description>
+		</Placemark>
+</Document>
+</kml>
